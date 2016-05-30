@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-05-30T23:03:03.260Z'
+datePublished: '2016-05-30T23:25:36.686Z'
+sourcePath: _posts/2016-05-30-internee-descendant-returns-to-castle-mountain.md
 isBasedOnUrl: 'https://vimeo.com/131059506'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: Armistice Films
     url: 'http://vimeo.com/armisticefilms'
     avatar: {}
-dateModified: '2016-05-30T23:02:53.555Z'
+dateModified: '2016-05-30T23:21:31.626Z'
 title: Internee Descendant returns to Castle Mountain
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/131059506'
@@ -41,9 +42,8 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: Internee Descendant returns to Castle Mountain. Meet Terry Mialkowsky The newest Producer on Enemy Aliens the movie. Watch as Terry follows a forgotten path through a camp where his grandfather was wrongfully imprisoned. Excerpts of this 3 minute video will become part of a 3 part series we are working on dealing with The War Measures Act in Canada.
+description: 'Follow Terry Mialkowsky as he follows a forgotten path through the Castle Mountain Internment Camp in Banff National Park where his grandfather was wrongfully imprisoned. '
 starred: false
-sourcePath: _posts/2016-05-30-internee-descendant-returns-to-castle-mountain.md
 inFeed: true
 hasPage: false
 inNav: false
