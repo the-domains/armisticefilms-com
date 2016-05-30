@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Does this post now?
-datePublished: '2016-05-30T19:08:23.670Z'
-dateModified: '2016-05-30T19:08:09.009Z'
+datePublished: '2016-05-30T19:08:01.808Z'
+dateModified: '2016-05-30T19:07:43.836Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-30-does-this-post-now.md
 authors: []
 publisher: null
 starred: false
+sourcePath: _posts/2016-05-30-does-this-post-now.md
 url: does-this-post-now/index.html
 _type: Article
 
