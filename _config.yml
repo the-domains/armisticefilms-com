@@ -1,7 +1,7 @@
 name: Armisticefilms.com
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.50539
+layout_spectrum: 0.8701557673048228
+typography_spectrum: 0.7934599760919809
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#5b574b'
-    - '#ffffff'
-    - '#a9a18c'
-    - '#d50100'
-  brandStrength: 0.5
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
+  brandStrength: 0.2696542714256793
+  lightness: 0.06766458507627249
+  saturation: 0.9383963188156486
+  rhythmicContrast: 0.10033925995230675
 purpose: []
