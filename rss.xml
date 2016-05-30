@@ -4,7 +4,7 @@
         <description><![CDATA[Armisticefilms.com]]></description>
         <link>https://thegrid.ai/armisticefilms-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 19:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 22:13:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/armisticefilms-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/armisticefilms-com/9338ab3f-8adc-4456-b3ac-dc40e0e566d6/index.html</link>
             <guid isPermaLink="false">9338ab3f-8adc-4456-b3ac-dc40e0e566d6</guid>
             <pubDate>Thu, 05 May 2016 20:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.facebook.com/EnemyAliensTheMovie/</link>
+            <guid isPermaLink="false">6cca1a7f-eb1b-4170-85f9-57fcdd46b2fc</guid>
+            <pubDate>Mon, 30 May 2016 22:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
