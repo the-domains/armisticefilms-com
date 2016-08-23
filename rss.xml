@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Armisticefilms.com]]></title>
-        <description><![CDATA[Armisticefilms.com]]></description>
+        <title><![CDATA[Armistice Films]]></title>
+        <description><![CDATA[Armistice Films]]></description>
         <link>http://armisticefilms.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 22:06:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 22:21:30 GMT</lastBuildDate>
         <atom:link href="http://armisticefilms.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Enemy Aliens - The Movie]]></title>
@@ -12,6 +12,13 @@
             <link>http://armisticefilms.com/9338ab3f-8adc-4456-b3ac-dc40e0e566d6/index.html</link>
             <guid isPermaLink="false">9338ab3f-8adc-4456-b3ac-dc40e0e566d6</guid>
             <pubDate>Mon, 30 May 2016 23:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Enemy Aliens (2016)]]></title>
+            <description><![CDATA[<article><h1>Enemy Aliens (2016)</h1><p>1913. The Austro Hungarian Empire is rapidly encroaching upon Western Ukraine. Brothers, Ruslan and Vasil Kotelko leave everything in search of the Canadian dream. Their hopes are shattered when they are caught up in the injustice of the War Measures Act.</p><img src="http://ia.media-imdb.com/images/M/MV5BMjE3MTQxMTIyM15BMl5BanBnXkFtZTcwMDA2NjYxOQ@@._V1_UY1200_CR109,0,630,1200_AL_.jpg"></article>]]></description>
+            <link>http://www.imdb.com/title/tt2716826/?ref_=pro_tt_visitcons</link>
+            <guid isPermaLink="false">c6fe4620-be87-48c4-ac2a-8f0f6317395b</guid>
+            <pubDate>Tue, 23 Aug 2016 22:20:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Camps (TV Series 2016- )]]></title>
