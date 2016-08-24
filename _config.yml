@@ -27,14 +27,14 @@ cta:
   bucket: null
   domain: null
 navigation:
+  - name: Armistice Films on Facebook
+    url: 'https://www.facebook.com/ArmisticeFilms/'
+    type: external
   - name: Enemy Aliens The Movie on Facebook
     url: 'https://www.facebook.com/EnemyAliensTheMovie/'
     type: external
   - name: Enemy Aliens on Twitter
     url: 'https://twitter.com/EnemyAliensFilm'
-    type: external
-  - name: Armistice Films on Facebook
-    url: 'https://www.facebook.com/ArmisticeFilms/'
     type: external
 favicon: null
 collections:
