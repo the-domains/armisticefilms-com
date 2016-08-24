@@ -26,6 +26,10 @@ cta:
   version: null
   bucket: null
   domain: null
+navigation:
+  - name: Armistice Films on Facebook
+    url: www.facebook.com/ArmisticeFilms
+    type: external
 favicon: null
 collections:
   - index:
