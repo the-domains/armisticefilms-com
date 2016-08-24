@@ -30,6 +30,9 @@ navigation:
   - name: Armistice Films on Facebook
     url: www.facebook.com/ArmisticeFilms
     type: external
+  - name: Enemy Aliens The Movie on Facebook
+    url: ww.facebook.com/EnemyAliensTheMovie
+    type: external
 favicon: null
 collections:
   - index:
