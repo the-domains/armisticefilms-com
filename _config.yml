@@ -33,6 +33,9 @@ navigation:
   - name: Enemy Aliens The Movie on Facebook
     url: ww.facebook.com/EnemyAliensTheMovie
     type: external
+  - name: Enemy Aliens on Twitter
+    url: twitter.com/EnemyAliensFilm
+    type: external
 favicon: null
 collections:
   - index:
