@@ -20,7 +20,7 @@ analytics:
   google: UA-83045337-1
   facebook: null
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/56cdac76-8f78-431a-bfda-0234e351be40.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf629675-e98b-4259-b74c-c7d5cce5edf7.png
 name: Armisticefilms.com
 cta:
   version: null
@@ -36,7 +36,8 @@ navigation:
   - name: Enemy Aliens on Twitter
     url: 'https://twitter.com/EnemyAliensFilm'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d9ff7e1-8609-497b-8bce-a1e65e546bc7.png
 collections:
   - index:
       navigable: true
