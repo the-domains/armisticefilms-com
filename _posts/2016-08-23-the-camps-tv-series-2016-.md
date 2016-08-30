@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-08-24T03:25:07.461Z'
+datePublished: '2016-08-28T15:04:21.356Z'
 sourcePath: _posts/2016-08-23-the-camps-tv-series-2016-.md
+inFeed: true
 isBasedOnUrl: 'http://www.imdb.com/title/tt5056450/'
 keywords:
   - '8000'
@@ -16,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T03:25:07.084Z'
+dateModified: '2016-08-28T15:04:20.964Z'
 title: The Camps (TV Series 2016- )
 app_links: []
 publisher:
@@ -31,9 +32,6 @@ description: >-
   memory of these men women and children and finally tells their story.
 inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
