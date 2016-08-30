@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-28T15:04:21.356Z'
+datePublished: '2016-08-28T15:05:43.729Z'
 sourcePath: _posts/2016-08-23-the-camps-tv-series-2016-.md
 inFeed: true
 isBasedOnUrl: 'http://www.imdb.com/title/tt5056450/'
@@ -17,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-28T15:04:20.964Z'
+dateModified: '2016-08-28T15:05:43.072Z'
 title: The Camps (TV Series 2016- )
 app_links: []
 publisher:
